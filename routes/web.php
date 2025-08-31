@@ -8,6 +8,8 @@ Route::get('/', function () {
 
 // Route::post('/form', function ($id) {});
 
-Route::post('form');
+Route::post('form', function() {
+    
+});
 
 
