@@ -14,7 +14,7 @@
             @csrf
             <h1>Form</h1>
             <label >Name</label>
-            <input type="text">
+            <input type="text" name="name">
 
             <label >Email</label>
             <input type="email" name="" id="">
