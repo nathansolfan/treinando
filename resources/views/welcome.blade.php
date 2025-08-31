@@ -12,6 +12,7 @@
     <div>
         <form action="/form" method="POST">
             @csrf
+            <h1>Form</h1>
             <label >Name</label>
             <input type="text">
 
