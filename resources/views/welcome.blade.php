@@ -17,7 +17,7 @@
             <input type="text" name="name">
 
             <label >Email</label>
-            <input type="email" name="" id="">
+            <input type="email" name="email" id="">
 
             <label for="">Password</label>
             <input type="password" name="" id="">
