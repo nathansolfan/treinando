@@ -6,6 +6,11 @@ class CrudService
 {
     public function allUsers()
     {
+
+    }
+
+    public function createUserr()
+    {
         
     }
 
