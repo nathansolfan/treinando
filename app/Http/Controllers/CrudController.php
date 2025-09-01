@@ -9,7 +9,6 @@ class CrudController extends Controller
     protected $crudService;
     public function __construct()
     {
-        $crudService = $this->crudService
-        
+        $crudService = $this->crudService;        
     }
 }
